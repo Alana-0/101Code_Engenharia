@@ -2,7 +2,7 @@
 
 ---
 
-## 👩 Emily Martins
+## Emily Martins
 
 | Etapa da Jornada                                      | Funcionalidade relacionada                            |
 |------------------------------------------------------|------------------------------------------------------|
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 Jetson Xavier
+## Jetson Xavier
 
 | Etapa da Jornada                                      | Funcionalidade relacionada                            |
 |------------------------------------------------------|------------------------------------------------------|
@@ -26,7 +26,7 @@
 
 ---
 
-## 👨 Rafael Oliveira
+## Rafael Oliveira
 
 | Etapa da Jornada                                      | Funcionalidade relacionada                            |
 |------------------------------------------------------|------------------------------------------------------|
