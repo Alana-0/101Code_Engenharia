@@ -2,7 +2,7 @@
 
 ---
 
-## 👩 Emily Martins (Estudante técnica)
+## Emily Martins (Estudante técnica)
 
 1. Acessa o site 101CODE
 2. Cria uma conta com e-mail e senha
@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 Jetson Xavier (Dev Jr ocupado)
+## Jetson Xavier (Dev Jr ocupado)
 
 1. Entra na plataforma por indicação
 2. Recebe sugestão de trilha personalizada
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨 Rafael Oliveira (Transição de carreira)
+## Rafael Oliveira (Transição de carreira)
 
 1. Descobre o 101CODE por recomendação
 2. Cria conta e escolhe trilha "Iniciante em TI"
