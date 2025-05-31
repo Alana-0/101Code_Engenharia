@@ -4,9 +4,9 @@
 
 ## 🎯 Personas Segmentadas
 
-- 👩 Emily Martins — Estudante do ensino médio técnico, gosta de desafios e quer certificados
-- 👨‍💻 Jetson Xavier — Universitário com rotina corrida, busca motivação para manter o foco
-- 👨 Rafael Oliveira — Em transição de carreira, busca conteúdo acessível e orientação clara
+- Emily Martins — Estudante do ensino médio técnico, gosta de desafios e quer certificados
+- Jetson Xavier — Universitário com rotina corrida, busca motivação para manter o foco
+- Rafael Oliveira — Em transição de carreira, busca conteúdo acessível e orientação clara
 
 ---
 
@@ -57,11 +57,11 @@ Validar se estudantes e profissionais em transição utilizariam uma plataforma 
 
 ## 📊 Métricas para Validar o MVP
 
-- 👥 Número de usuários cadastrados
-- 🚀 Número de trilhas concluídas
-- 📃 Número de certificados emitidos
-- ⏱ Tempo médio de permanência na plataforma
-- 🔁 Taxa de retorno dos usuários
+-  Número de usuários cadastrados
+- Número de trilhas concluídas
+- Número de certificados emitidos
+- Tempo médio de permanência na plataforma
+- Taxa de retorno dos usuários
 
 ---
 
