@@ -7,7 +7,6 @@ Repositório do projeto 101code, plataforma web para ensino de programação com
 - [É / Não É / Faz / Não Faz](e_nao_e_faz_nao_faz.md)
 - [Personas](personas.md)
 - [Funcionalidades-Chave](funcionalidades.md)
-- [Brainstorm de Funcionalidades](brainstorm_funcionalidades.md)
 - [Revisão Técnica, UX e de Negócio](revisao_ux_negocio.md)
 - [Jornada dos Usuários](jornada_usuarios.md)
 - [Funcionalidades nas Jornadas](funcionalidades_nas_jornadas.md)
