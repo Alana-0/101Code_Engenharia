@@ -9,5 +9,5 @@
 | 5    | Consultar quais trilhas que amigos estão fazendo e qual o progresso |
 | 6    | Roadmaps com conteúdos centralizado para estudo                     |
 | 7    | Geração de cerficado ao concluir uma trilha                         |
-|----------------------------------------------------------------------------|
+
 
