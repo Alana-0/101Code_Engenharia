@@ -1,5 +1,7 @@
 # 101Code_Engenharia
-Repositório do projeto 101code, plataforma web para ensino de programação com gamificação. Contém artefatos da etapa Discovery, seguindo a metodologia Lean Inception para definição das funcionalidades-chave do MVP. Documentação em Markdown organizada para facilitar o acesso via README.md.
+101CODE é uma plataforma online voltada para o ensino de programação, desenvolvida com o objetivo de facilitar o acesso a conteúdos organizados e gratuitos. A proposta é oferecer trilhas de aprendizado estruturadas, com elementos de gamificação e certificação, tornando o processo de estudo mais motivador, acessível e eficiente.
+
+O projeto foi planejado com base na metodologia Lean Inception, que guiou a descoberta das funcionalidades essenciais do produto, com foco em atender às reais necessidades dos usuários. Através dessa abordagem, foi possível definir um MVP alinhado com os objetivos do público-alvo e com valor perceptível desde a primeira entrega.
 
 ## Artefatos
 
