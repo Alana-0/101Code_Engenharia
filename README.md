@@ -14,3 +14,5 @@ O projeto foi planejado com base na metodologia Lean Inception, que guiou a desc
 - [Funcionalidades nas Jornadas](funcionalidades_nas_jornadas.md)
 - [Sequenciador de Funcionalidades](sequenciador_funcionalidades.md)
 - [Canvas MVP](canvas_mvp.md)
+- [Canvas PBB](canvas_pbb.md)
+- [User Story](user_story.md)
