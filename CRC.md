@@ -1,3 +1,11 @@
+# CRC de classes baseado em histórias de usuário
+
+
+User Story: Como usuário iniciante, quero criar uma conta e fazer login para acessar meus progressos e conquistas.
+User Story: Como usuário, quero ter acesso a uma primeira lição de programação com perguntas simples para começar a aprender.
+User Story: Como usuário, quero ganhar pontos a cada exercício resolvido para acompanhar meu progresso e me sentir motivado.
+---
+
 | Classe           | Responsabilidade                                                                                                                                                                                                                       | Contribuição                                                 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Usuário          | - Saber seu nome e credenciais de acesso<br> - Saber quais certificados recebeu<br> - Saber quais trilhas estão em andamento<br> - Saber quais trilhas foram concluídas<br> - Receber Conquistas ao completar desafios<br>             | - Conquitas<br> - ProgressoUsuario<br>                       |
