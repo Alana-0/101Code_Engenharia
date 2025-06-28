@@ -17,3 +17,4 @@ O projeto foi planejado com base na metodologia Lean Inception, que guiou a desc
 - [Canvas PBB](canvas_pbb.md)
 - [User Story](user_story.md)
 - [Prototipo de Baixo Nível](Prototipo_BaixoNivel.pdf)
+- [CRC](CRC.md)
