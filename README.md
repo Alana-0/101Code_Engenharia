@@ -18,3 +18,4 @@ O projeto foi planejado com base na metodologia Lean Inception, que guiou a desc
 - [User Story](user_story.md)
 - [Prototipo de Baixo Nível](Prototipo_BaixoNivel.pdf)
 - [CRC](CRC.md)
+- [Diagrama de Classes UML](DiagramaDeClasses.pdf)
